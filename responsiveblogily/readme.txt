@@ -3,8 +3,8 @@
 Contributors: themeeverest  
 Requires at least: WordPress 4.0  
 Tested up to: WordPress 5.9
-Stable tag: 4.8
-Version: 4.8
+Stable tag: 7.3
+Version: 7.3
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 Tags: two-columns, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, custom-logo, featured-images, footer-widgets, theme-options, threaded-comments, translation-ready, blog, entertainment, news
@@ -16,7 +16,7 @@ Responsive Blogily is your responsive and SEO friendly responsive blog, the them
 Responsive Blogily is your responsive and SEO friendly responsive blog, the theme is crafted to be used for blogging, journalist writing, or newspapers. The code is optimized and clean so your website's loading time will be amazing. We have inserted lots of advertisement space where you can put your Google Adsense or another type of ads if you wish. It's a great theme if you're a writer who writes about entertainment, food, lifestyle, product previews, fashion, travel, gaming, or other sorts of affiliate blogs. The theme works with Beaver Pagebuilder as all our other themes so you can create a minimalistic business agency portfolio, landing page, or one page. The design is creative and modern, it's, of course, responsive so it works on tablets, desktop computers, and mobile phones on any system such as Apple's iOS/iPhone, Android, or Windows phones. 
 
 ## Copyright
-ResponsiveBlogily WordPress Theme, Copyright 2022 themeeverest
+ResponsiveBlogily WordPress Theme, Copyright 2026 themeeverest
 ResponsiveBlogily is distributed under the terms of the GNU GPL
 
 ResponsiveBlogily bundles the following third-party resources:
